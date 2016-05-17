@@ -6,3 +6,7 @@
 
 三阶图
 ![image](https://github.com/George-Soros/BezierTest/blob/master/third.jpg)
+
+参考:
+
+https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B6%5DPath_Bezier.md
