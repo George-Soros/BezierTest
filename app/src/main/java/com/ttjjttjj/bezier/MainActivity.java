@@ -18,8 +18,13 @@ public class MainActivity extends AppCompatActivity {
 //                RelativeLayout.LayoutParams.MATCH_PARENT));
 
         /** 三阶贝塞尔曲线 */
-        BezierLevelThird thirdView = new BezierLevelThird(this);
-        addContentView(thirdView, new RelativeLayout.LayoutParams(
+//        BezierLevelThird thirdView = new BezierLevelThird(this);
+//        addContentView(thirdView, new RelativeLayout.LayoutParams(
+//                RelativeLayout.LayoutParams.MATCH_PARENT,
+//                RelativeLayout.LayoutParams.MATCH_PARENT));
+
+        BezierHeart heartView = new BezierHeart(this);
+        addContentView(heartView, new RelativeLayout.LayoutParams(
                 RelativeLayout.LayoutParams.MATCH_PARENT,
                 RelativeLayout.LayoutParams.MATCH_PARENT));
 
